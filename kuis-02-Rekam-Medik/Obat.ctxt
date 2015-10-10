@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pasien
+comment0.target=Obat(Pasien[])
+comment1.params=
+comment1.target=java.lang.String\ getTulisan()
+comment2.params=
+comment2.target=int\ getBayaknya()
+numComments=3
