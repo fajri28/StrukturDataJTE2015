@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nama
+comment0.target=Makanan(java.lang.String)
+comment1.params=
+comment1.target=int\ getHarga()
+comment2.params=harga
+comment2.target=int\ setHarga(int)
+comment3.params=
+comment3.target=JenisMakanan[]\ daftarJenisMakanan()
+numComments=4
