@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Transaksi()
+comment1.params=kapan\ debit\ kredit
+comment1.target=Transaksi(java.util.Date,\ java.lang.Long,\ java.lang.Long)
+comment2.params=
+comment2.target=java.util.Date\ kapan()
+comment3.params=
+comment3.target=java.lang.Long\ debit()
+comment4.params=
+comment4.target=java.lang.Long\ kredit()
+numComments=5
